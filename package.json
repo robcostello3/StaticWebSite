@@ -1,0 +1,21 @@
+{
+  "name": "staticwebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robcostello3/StaticWebSite.git"
+  },
+  "author": "Robert Costello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robcostello3/StaticWebSite/issues"
+  },
+  "homepage": "https://github.com/robcostello3/StaticWebSite#readme"
+}
